@@ -1,0 +1,10 @@
+root: README.md
+format: jb-article
+#format: jb-book
+options:  # The options key will be applied to all chapters, but not sub-sections
+    numbered: True
+sections: 
+  #  - file: 01-annotations
+  #  - file: 02-beanvalidation
+- glob: "*.ipynb"
+

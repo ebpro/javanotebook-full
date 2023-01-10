@@ -1,0 +1,15 @@
+[submodule "01-base"]
+	path = 01-base
+	url = git@github.com:ebpro/javanotebook-base.git
+[submodule "02-jdbc"]
+	path = 02-jdbc
+	url = git@github.com:ebpro/javanotebook-jdbc.git
+[submodule "04-jaxrs"]
+	path = 04-jaxrs
+	url = git@github.com:ebpro/javanotebook-jaxrs.git
+[submodule "05-websocket"]
+	path = 05-websocket
+	url = git@github.com:ebpro/javanotebook-websocket.git
+[submodule "06-annotations"]
+	path = 06-annotations
+	url = git@github.com:ebpro/javanotebook-annotations.git
